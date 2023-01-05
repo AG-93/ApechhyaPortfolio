@@ -3,8 +3,8 @@
 <h1> Creating a portoflio using CSS Flex Box </h1>
 
 <h2> Deployed links(s) </h2>
-Live page:
-Github repo:
+Live page: https://ag-93.github.io/ApechhyaPortfolio/ 
+Github repo: https://github.com/AG-93/ApechhyaPortfolio.git 
 
 <h2> Description </h2>
 My motivation was to create a portoflio page using flex box. I've learnt what flex box does on a webpage and how it structures the layout of the webpage. 
